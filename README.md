@@ -1,2 +1,2 @@
 # graphs_concentration
-# dendrons, distribution limit simulations
+# dendrons, distribution limit simulation
